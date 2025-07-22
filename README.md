@@ -6,4 +6,4 @@
 
 ㅅㄷㄴㅅㄴ
 tiger is working
-sheep is doing addtional work
+양과 호랑이 추가작업
